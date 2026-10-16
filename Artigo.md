@@ -41,99 +41,99 @@ This article analyzes the transformation of the fleet management process at the 
 
 ## **SUMÁRIO**
 
-**RESUMO	3**
+[**RESUMO	3**](#heading=)
 
-**ABSTRACT	4**
+[**ABSTRACT	4**](#heading=)
 
-**SUMÁRIO	5**
+[**SUMÁRIO	5**](#heading=)
 
-**1\. INTRODUÇÃO	7**
+[**1\. INTRODUÇÃO	7**](#heading=)
 
-**1.1 APRESENTAÇÃO DO TEMA	7**
+[**1.1 APRESENTAÇÃO DO TEMA	7**](#heading=)
 
-**1.2 PROBLEMA DE PESQUISA	7**
+[**1.2 PROBLEMA DE PESQUISA	7**](#heading=)
 
-**1.3 OBJETIVOS	8**
+[**1.3 OBJETIVOS	8**](#heading=)
 
-**1.3.1 Objetivo Geral	8**
+[**1.3.1 Objetivo Geral	8**](#heading=)
 
-**1.3.2 Objetivos Específicos	8**
+[**1.3.2 Objetivos Específicos	8**](#heading=)
 
-**1.4 JUSTIFICATIVA	8**
+[**1.4 JUSTIFICATIVA	8**](#heading=)
 
-**1.5 OBJETO (LOCUS DA PESQUISA)	9**
+[**1.5 OBJETO (LOCUS DA PESQUISA)	9**](#heading=)
 
-**1.6 METODOLOGIA	9**
+[**1.6 METODOLOGIA	9**](#heading=)
 
-**1.7 ESTRUTURA DO TRABALHO	9**
+[**1.7 ESTRUTURA DO TRABALHO	9**](#heading=)
 
-**2\. MARCO LEGAL E REGULATÓRIO DA FROTA PÚBLICA	10**
+[**2\. MARCO LEGAL E REGULATÓRIO DA FROTA PÚBLICA	10**](#heading=)
 
-**2.1 O Decreto Estadual nº 9.541/2019: Diretrizes e Governança do Estado de Goiás	10**
+[**2.1 O Decreto Estadual nº 9.541/2019: Diretrizes e Governança do Estado de Goiás	10**](#heading=)
 
-**2.2 A Instrução Normativa nº 108/2022-UEG: Normatização Interna da Logística de Transportes	11**
+[**2.2 A Instrução Normativa nº 108/2022-UEG: Normatização Interna da Logística de Transportes	11**](#heading=)
 
-**2.3 Normas Complementares e Autonomia Operacional do Campus CET	11**
+[**2.3 Normas Complementares e Autonomia Operacional do Campus CET	11**](#heading=)
 
-**2.4 Síntese dos Requisitos Normativos para a Transformação Digital	12**
+[**2.4 Síntese dos Requisitos Normativos para a Transformação Digital	12**](#heading=)
 
-**3\. TRANSFORMAÇÃO DE PROCESSOS E SERVICE BLUEPRINTING EM IES	13**
+[**3\. TRANSFORMAÇÃO DE PROCESSOS E SERVICE BLUEPRINTING EM IES	13**](#heading=)
 
-**3.1 Engenharia de Serviços e Reengenharia de Fluxos na Administração Pública	13**
+[**3.1 Engenharia de Serviços e Reengenharia de Fluxos na Administração Pública	13**](#heading=)
 
-**3.2 Metodologia de Service Blueprinting: Conceitos e Estrutura	13**
+[**3.2 Metodologia de Service Blueprinting: Conceitos e Estrutura	13**](#heading=)
 
-**3.3 A Aplicação do Service Blueprint na Gestão Universitária e Eliminação de Gargalos de TI	14**
+[**3.3 A Aplicação do Service Blueprint na Gestão Universitária e Eliminação de Gargalos de TI	14**](#heading=)
 
-**4\. PROCEDIMENTOS METODOLÓGICOS	15**
+[**4\. PROCEDIMENTOS METODOLÓGICOS	15**](#heading=)
 
-**4.1 Enquadramento e Classificação da Pesquisa	15**
+[**4.1 Enquadramento e Classificação da Pesquisa	15**](#heading=)
 
-**4.2 Desenho Operacional: Estudo de Caso e Investigação Documental	15**
+[**4.2 Desenho Operacional: Estudo de Caso e Investigação Documental	15**](#heading=)
 
-**4.3 Corpus Documental e Fontes de Dados	16**
+[**4.3 Corpus Documental e Fontes de Dados	16**](#heading=)
 
-**4.4 Procedimentos de Coleta e Técnica de Análise de Dados	16**
+[**4.4 Procedimentos de Coleta e Técnica de Análise de Dados	16**](#heading=)
 
-**4.5 Aspectos Éticos e Isenção do Comitê de Ética em Pesquisa (CEP)	16**
+[**4.5 Aspectos Éticos e Isenção do Comitê de Ética em Pesquisa (CEP)	16**](#heading=)
 
-**5\. ANÁLISE DOCUMENTAL E MAPEAMENTO DE PROCESSOS (SERVICE BLUEPRINT)	17**
+[**5\. ANÁLISE DOCUMENTAL E MAPEAMENTO DE PROCESSOS (SERVICE BLUEPRINT)	17**](#heading=)
 
-**5.1 Caracterização do Locus e Diagnóstico Operacional do Campus CET	17**
+[**5.1 Caracterização do Locus e Diagnóstico Operacional do Campus CET	17**](#heading=)
 
-**5.2 A Matriz do Service Blueprint do Processo de Frota Integrada	17**
+[**5.2 A Matriz do Service Blueprint do Processo de Frota Integrada	17**](#heading=)
 
-**5.3 Análise Pormenorizada das Etapas da Jornada de Serviço	18**
+[**5.3 Análise Pormenorizada das Etapas da Jornada de Serviço	18**](#heading=)
 
-**5.3.1 Etapa 1: Planejamento e Solicitação de Viagem	18**
+[**5.3.1 Etapa 1: Planejamento e Solicitação de Viagem	18**](#heading=)
 
-**5.3.2 Etapa 2: Análise, Homologação e Deferimento Descentralizado	19**
+[**5.3.2 Etapa 2: Análise, Homologação e Deferimento Descentralizado	19**](#heading=)
 
-**5.3.3 Etapa 3: Vistoria Automatizada, Partida e Conduta em Trânsito	19**
+[**5.3.3 Etapa 3: Vistoria Automatizada, Partida e Conduta em Trânsito	19**](#heading=)
 
-**5.3.4 Etapa 4: Execução do Deslocamento e Segurança	20**
+[**5.3.4 Etapa 4: Execução do Deslocamento e Segurança	20**](#heading=)
 
-**5.3.5 Etapa 5: Devolução, Encerramento e Auditabilidade Digital	20**
+[**5.3.5 Etapa 5: Devolução, Encerramento e Auditabilidade Digital	20**](#heading=)
 
-**6\. RESULTADOS, DIAGNÓSTICO E REQUISITOS SISTÊMICOS	20**
+[**6\. RESULTADOS, DIAGNÓSTICO E REQUISITOS SISTÊMICOS	20**](#heading=)
 
-**6.1 Resultados do Levantamento de Requisitos Normativos e Funcionais	20**
+[**6.1 Resultados do Levantamento de Requisitos Normativos e Funcionais	20**](#heading=)
 
-**6.2 Diagnóstico dos Chamados de TI e Solução do Gargalo do Organograma da UEG	21**
+[**6.2 Diagnóstico dos Chamados de TI e Solução do Gargalo do Organograma da UEG	21**](#heading=)
 
-**6.3 Modelo Piloto Descentralizado no Campus CET	22**
+[**6.3 Modelo Piloto Descentralizado no Campus CET	22**](#heading=)
 
-**6.4 Matriz de Requisitos Funcionais (RF) e Regras de Negócio (RN)	22**
+[**6.4 Matriz de Requisitos Funcionais (RF) e Regras de Negócio (RN)	22**](#heading=)
 
-**7\. CONSIDERAÇÕES FINAIS	23**
+[**7\. CONSIDERAÇÕES FINAIS	23**](#heading=)
 
-**7.1 Síntese dos Principais Achados e Objetivos Atingidos	24**
+[**7.1 Síntese dos Principais Achados e Objetivos Atingidos	24**](#heading=)
 
-**7.2 Contribuições Práticas e Acadêmicas	24**
+[**7.2 Contribuições Práticas e Acadêmicas	24**](#heading=)
 
-**7.3 Limitações da Pesquisa e Sugestões para Trabalhos Futuros	24**
+[**7.3 Limitações da Pesquisa e Sugestões para Trabalhos Futuros	24**](#heading=)
 
-**REFERÊNCIAS	26**
+[**REFERÊNCIAS	26**](#heading=)
 
 ## 
 
